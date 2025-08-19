@@ -21,21 +21,21 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sokleaphea&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zorng&show_icons=true&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sokleaphea&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorng&layout=compact&theme=tokyonight)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sokleaphea&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zorng&theme=tokyonight)  
 
 ---
 
 ## 🌍 Connect With Me  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sokleapheaphon@email.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Zorngphon@email.com)  
 
 ---
 
 ## 👀 Profile Views  
-![Visitor Count](https://komarev.com/ghpvc/?username=Sokleaphea&color=blue&style=flat-square)  
+![Visitor Count](https://komarev.com/ghpvc/?username=Zorng&color=blue&style=flat-square)  
 
 ---
 
