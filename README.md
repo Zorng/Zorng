@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Leaphea  
+# 👋 Hi, I’m Zorng  
 
 🌱 Passionate about Software Engineering | 🎮 Aspiring Game Developer | 🥊 Boxing Enthusiast  
 
@@ -30,7 +30,7 @@
 ---
 
 ## 🌍 Connect With Me  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Zorngphon@email.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ieangzorngl@gmail.com)  
 
 ---
 
