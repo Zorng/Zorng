@@ -5,11 +5,8 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 2nd-year Computer Science (Software Engineering) student  
-- 💻 Currently learning C++, JavaScript, and Full-Stack Development  
-- 🎨 Exploring Photoshop and creative design  
-- 🎸 Learning guitar as a screen-free hobby  
-- ⚡ Fun fact: I mix coding, design, and gaming into one big adventure!
+- 🎓 3rd-year Computer Science (Software Engineering) student  
+- 💻 Currently learning Mobile Development with Flutter and Game Development with C# 
 
 ---
 
