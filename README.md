@@ -14,21 +14,8 @@
 
 ## 🛠️ Tech Stack
 
-### Backend & Core Languages
-![Java](https://shields.io)
-![Spring Boot](https://shields.io)
-![Node.js](https://shields.io)
-![TypeScript](https://shields.io)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://shields.io)
-![Django](https://shields.io)
+![Java](https://shields.io) ![Spring Boot](https://shields.io) ![Node.js](https://shields.io) ![TypeScript](https://shields.io) ![JavaScript](https://shields.io) ![Python](https://shields.io) ![Django](https://shields.io) ![PostgreSQL](https://shields.io) ![MySQL](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io) ![Flutter](https://shields.io)
 
-### Databases & Tools
-![PostgreSQL](https://shields.io)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Flutter](https://shields.io)
 
 ---
 
