@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-- **Education: ** Year 4 Computer Science (Software Engineering)** student at the **Cambodia Academy of Digital Technology (CADT)
+- **Education:** **Year 4 Computer Science (Software Engineering)** student at the **Cambodia Academy of Digital Technology (CADT)**
 - **Experience:** Built and launched **Modula POS**, a live modular Point-of-Sale backend serving real SME merchants
 - **Current Focus:** Re-architecting core backend services from **Node.js** into **Java & Spring Boot** with a focus on transactional integrity and multi-module design
 - **Career:** Seeking a **Backend Software Engineering Internship starting January 4, 2027** (with a goal to transition full-time post-defense)
