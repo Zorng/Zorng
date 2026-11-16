@@ -28,13 +28,7 @@
 
 ---
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zorng&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorng&layout=compact&theme=tokyonight)
-
----
-
 ## Connect With Me
-**Email:** ieangzorngl@gmail.com
-**LinkedIn:** https://www.linkedin.com/in/ieangzorng-lim/
+- **Email:** ieangzorngl@gmail.com 
+- **LinkedIn:** https://www.linkedin.com/in/ieangzorng-lim/
 
