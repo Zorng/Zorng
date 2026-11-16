@@ -12,7 +12,11 @@
 
 ## Tech Stack
 
-![Java](https://shields.io) ![Spring Boot](https://shields.io) ![Node.js](https://shields.io) ![TypeScript](https://shields.io) ![JavaScript](https://shields.io) ![Python](https://shields.io) ![Django](https://shields.io) ![PostgreSQL](https://shields.io) ![MySQL](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io) ![Flutter](https://shields.io)
+- **Languages:** Java, TypeScript, JavaScript, Python, SQL, Dart
+- **Backend Frameworks:** Spring Boot, Node.js (Express), Django
+- **Databases:** PostgreSQL, MySQL
+- **Architecture & APIs:** RESTful APIs, Server-Sent Events (SSE), Modular & Event-Driven Systems, ACID Transactions
+- **Tools & Workflows:** Git, GitHub, Agile / Kanban, Flutter
 
 
 ---
