@@ -1,39 +1,52 @@
-# 👋 Hi, I’m Zorng  
+# 👋 Hi, I’m Lim Ieangzorng
 
-🌱 Passionate about Software Engineering | 🎮 Aspiring Game Developer | 🥊 Boxing Enthusiast  
-
----
-
-## 🚀 About Me  
-- 🎓 3rd-year Computer Science (Software Engineering) student  
-- 💻 Currently learning Mobile Development with Flutter and Game Development with C# 
+⚙️ **Backend Software Engineer** | 🎓 **Year 4 Software Engineering Student at CADT** | 🥊 **Boxing Enthusiast**
 
 ---
 
-## 🛠️ Tech Stack  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)  
-
-
----
-
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zorng&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorng&layout=compact&theme=tokyonight)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zorng&theme=tokyonight)  
+## 🚀 About Me
+- 🎓 **Year 4 Computer Science (Software Engineering)** student at the **Cambodia Academy of Digital Technology (CADT)**
+- 🏗️ Built and launched **Modula POS**, a live modular Point-of-Sale backend serving real SME merchants
+- 🔄 Currently re-architecting core backend services from **Node.js** into **Java & Spring Boot** with a focus on transactional integrity and multi-module design
+- 🎯 Seeking a **Backend Software Engineering Internship starting January 4, 2027** (with a goal to transition full-time post-defense)
 
 ---
 
-## 🌍 Connect With Me  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ieangzorngl@gmail.com)  
+## 🛠️ Tech Stack
+
+### Backend & Core Languages
+![Java](https://shields.io)
+![Spring Boot](https://shields.io)
+![Node.js](https://shields.io)
+![TypeScript](https://shields.io)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://shields.io)
+![Django](https://shields.io)
+
+### Databases & Tools
+![PostgreSQL](https://shields.io)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Flutter](https://shields.io)
 
 ---
 
-## 👀 Profile Views  
-![Visitor Count](https://komarev.com/ghpvc/?username=Zorng&color=blue&style=flat-square)  
+## 🏗️ Featured Work
+- **Modula POS (Live Commercial System):** Led a 6-person team to build a modular POS platform. Engineered a Node.js backend with a cross-module orchestrator and Server-Sent Events (SSE), currently migrating to **Java Spring Boot**.
+- **KaseMall Storefront (Internship @ KASEGRO CO., LTD.):** Developed server-side e-commerce workflows (cart, checkout, order history, validation) using **Django** and **PostgreSQL**.
+- **Expense Tracker API:** Built secure RESTful APIs with normalized PostgreSQL schemas, JWT authentication, and automated email workflows.
 
 ---
 
-✨ *“Code. Create. Conquer.”* ✨
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zorng&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorng&layout=compact&theme=tokyonight)
+
+---
+
+## 🌍 Connect With Me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ieangzorngl@gmail.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Zorng&color=blue&style=flat-square)
